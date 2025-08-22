@@ -45,7 +45,10 @@ World/Data/Data.hash
 
 # Custom
 Backups/
+ClientDataFiles/
+World/Backups
 World/Data/Obsolete
+World/Saves
 World/Scripts/Obsolete
 World.exe
 World.exe.config
